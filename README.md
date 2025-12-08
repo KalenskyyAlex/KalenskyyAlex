@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalenskyyAlex, a programmer from Ukraine, currently in Kosice, Slovakia
 - 👀 I’m interested in AI, bots and userbots, creating programming languages(parsers and compilers), writing backend for web apps
 - 🌱 I’m currently improving my skills in React and Java Spring
-- 🛠️ project I'm currenly working on: https://github.com/KalenskyyAlex/omni-com 
+- 🛠️ project I'm currenly working on: `none`
 - 📫 How to contact me:
   - telegram: https://t.me/kalenskyj
   - linkedIn: https://www.linkedin.com/in/oleksandr-kalenskyy-460324250
