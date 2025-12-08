@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalenskyyAlex, a programmer from Ukraine, currently in Kosice, Slovakia
+- 👋 Hi, I’m @KalenskyyAlex, a programmer from Ukraine, currently in Bratislava, Slovakia
 - 👀 I’m interested in AI, bots and userbots, creating programming languages(parsers and compilers), writing backend for web apps
 - 🌱 I’m currently improving my skills in React and Java Spring
 - 🛠️ project I'm currenly working on: `none`
